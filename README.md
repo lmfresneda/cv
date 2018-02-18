@@ -1,3 +1,5 @@
+> Esto es el código fuente, la página la puedes ver publicada [aquí](https://lmfresneda.github.io/)
+
 ## Porqué de esta página
 
 He querido hacer esta especie de currículum, primeramente porque desde hace tiempo quiero tener un CV online, segundo porque me apetecía aprender ciertas cosas que tengo pendientes, tales como:
