@@ -4,7 +4,7 @@
     "text": "Personal",
     "name": "Luis Miguel Fresneda",
     "title": "Really Normal Developer",
-    "ilivein": "Castro Urdiales, Cantabria",
+    "ilivein": "Torrejón de Ardoz, Madrid",
     "birthdate": {
       "year": 1983,
       "month": 12,
@@ -36,8 +36,8 @@
       {
         "icon": "fab fa-telegram",
         "title": "Telegram",
-        "text": "@luis_miguelfr",
-        "url": "https://t.me/luis_miguelfr"
+        "text": "@lmfresneda",
+        "url": "https://t.me/lmfresneda"
       }
     ]
   },
@@ -97,9 +97,9 @@
       {
         "from": "Enero 2016",
         "to": "Actualmente",
-        "title": "Analista programador",
+        "title": "Programador Web",
         "company": "Fieldeas - Easy Field Service",
-        "location": "Santander, Cantabria",
+        "location": "Madrid, Madrid",
         "url": "https://www.fieldeas.com/",
         "linkedin": "",
         "summary": [
@@ -112,7 +112,7 @@
       {
         "from": "Marzo 2014",
         "to": "Enero 2016",
-        "title": "Programador",
+        "title": "Programador Web",
         "company": "CIC Consulting Informático de Cantabria",
         "location": "Santander, Cantabria",
         "url": "https://www.cic.es/",

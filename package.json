@@ -1,6 +1,6 @@
 {
   "name": "cv-luis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Currículum Vitae de Luis Miguel Fresneda",
   "main": "src/main.js",
   "scripts": {
