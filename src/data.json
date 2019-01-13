@@ -51,18 +51,19 @@
       "Adaptable",
       "Full Stack",
       "Git",
-      "C#",
+      "Python",
       "Trabajo en equipo",
       "Otros lenguajes",
       "Node.js",
-      "Express.js"
+      "Express.js",
+      "Google Cloud"
     ]
   },
   "summary": {
     "icon": "far fa-file-alt",
     "text": "Resumen",
     "data": [
-      "Actualmente estoy trabajando con Vue.js. También estoy manteniendo aplicaciones con el stack jQuery/Bootstrap/Handlebars. Por mi cuenta estoy <a href=\"https://github.com/lmfresneda/crypto-price\" target=\"blank\">experimentando</a> con Quasar Framework.",
+      "Actualmente estoy trabajando con Vue.js y con Python (2 y 3) realizando monolitos, microservicios y fronts independientes. Todo bajo Google Cloud.",
       "Siempre he trabajado con javascript, y también con C# la mayor parte del tiempo. Reconozco que me siento a gusto con javascript, aunque no soy de cerrarme puertas.",
       "He tocado por mi cuenta node.js, express.js, mongoose, react.js, y más. Me gusta ver qué hay de nuevo en el mundillo.",
       "Conozco Java y Php, aunque no los he trabajado profesionalmente. Me adapto a todo, no le tengo miedo a nada, laboralmente hablando.",
@@ -76,17 +77,17 @@
       "Soy desarrollador.",
       "Me apasiona este sector.",
       "Soy proactivo. No me gusta dormirme en los laureles.",
-      "Me gusta mantenerme al día. Leo blogs, veo vídeos, asisto a charlas (codemotion, bilbostack, etc).",
-      "Me gusta intentar tener al menos un proyecto vivo en github.",
+      "Me gusta mantenerme al día. Leo blogs, veo vídeos, asisto a charlas (commitconf, frontfest, etc).",
+      "Me gusta intentar tener al menos un proyecto vivo en github (aunque no lo consiga).",
       "He trabajado en equipo y en solitario y me he adaptado bien siempre.",
       "Me da igual el lenguaje/framework/plataforma.",
       "No me da miedo nada, laboralmente hablando."
     ],
     "no": [
-      "No hablo inglés :( Ya estoy dando clases particulares para solucionarlo. De momento, no tengo problemas con documentación.",
+      "No me defiendo excesivamente bien con el inglés, aunque le estoy poniendo remedio. No tengo problemas con documentación.",
       "No soy comercial.",
       "No soy de sistemas.",
-      "No soy un ninja, master, x-man, (ponga una palabra molona) developer. Soy desarrollador, ¿bueno? eso dímelo tu.",
+      "No soy un ninja, master, x-man, (ponga una palabra molona) developer. Soy desarrollador, ¿bueno? eso lo tendrán que decir otros.",
       "No lo sé todo, pero una cosa tengo clara, si tengo que aprender algo, doy todo hasta que lo aprendo."
     ]
   },
@@ -95,18 +96,31 @@
     "text": "Experiencia",
     "data": [
       {
+        "from": "Septiembre 2018",
+        "to": "Actualidad",
+        "title": "FullStack Developer",
+        "company": "Sngular",
+        "location": "Madrid, Madrid",
+        "url": "https://sngular.com/",
+        "linkedin": "",
+        "summary": [
+          "Actualmente trabajo en Sngular desde Septiembre de 2018, destinado en el cliente BBVA.",
+          "En este cliente, realizo frontales con Vue.jj y monolitos y microservicios con Python (2 y 3). Todo ello desplegado en Google Cloud y con Git (bitbucket) para control de versiones."
+        ]
+      },
+      {
         "from": "Enero 2016",
-        "to": "Actualmente",
+        "to": "Septiembre 2018",
         "title": "Programador Web",
         "company": "Fieldeas - Easy Field Service",
         "location": "Madrid, Madrid",
         "url": "https://www.fieldeas.com/",
         "linkedin": "",
         "summary": [
-          "Actualmente trabajo en Fieldeas desde Enero de 2016, una Spin Off del <a href=\"https://www.cic.es/\" target=\"blank\">Grupo CIC</a>, para comercializar y evolucionar su plataforma <a href=\"https://www.cic.es/fieldeas/\" target=\"blank\">Fieldeas DaaT</a>. En total, en el Grupo CIC llevo desde Marzo de 2014.",
-          "Básicamente mi trabajo se desarrolla bajo un entorno front la mayoría del tiempo, basándonos en Javascript y de forma más concreta, últimamente trabajamos con Vue.js para entorno web de escritorio y Onsen UI para entorno web móvil, aunque mantenemos aplicaciones y evolutivos bajo el stack jQuery/Bootstrap/Handlebars.",
-          "No solo me quedo en el front, la mayoría de los días me toca bajar a back a trabajar con apis rest, servicios de windows, conectores de datos, web services, web forms, etc. Bajo un entorno microsoft.",
-          "Trabajamos para la mayoría de los sectores laborales, como transporte y paquetería, parkings, gestión de flotas, energía, telecomunicaciones, Administración Pública, transporte público, mantenimiento (gestión de órdenes de trabajo), etc."
+          "He trabajado en Fieldeas desde Enero de 2016, una Spin Off del <a href=\"https://www.cic.es/\" target=\"blank\">Grupo CIC</a>, para comercializar y evolucionar su plataforma <a href=\"https://www.cic.es/fieldeas/\" target=\"blank\">Fieldeas DaaT</a>. En total, en el Grupo CIC llevo desde Marzo de 2014.",
+          "Básicamente mi trabajo se desarrollaba bajo un entorno front la mayoría del tiempo, basándonos en Javascript y de forma más concreta, últimamente trabajaba con Vue.js para entorno web de escritorio y Onsen UI para entorno web móvil, aunque manteníamos aplicaciones y evolutivos bajo el stack jQuery/Bootstrap/Handlebars.",
+          "No solo me quedaba en el front, la mayoría de los días me tocaba bajar a back a trabajar con apis rest, servicios de windows, conectores de datos, web services, web forms, etc. Bajo un entorno microsoft.",
+          "Trabajábamos para la mayoría de los sectores laborales, como transporte y paquetería, parkings, gestión de flotas, energía, telecomunicaciones, Administración Pública, transporte público, mantenimiento (gestión de órdenes de trabajo), etc."
         ]
       },
       {
