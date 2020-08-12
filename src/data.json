@@ -47,6 +47,7 @@
     "data": [
       "Programación Web",
       "Javascript",
+      "Nuxt.js",
       "Vue.js",
       "Adaptable",
       "Full Stack",
@@ -63,11 +64,9 @@
     "icon": "far fa-file-alt",
     "text": "Resumen",
     "data": [
-      "Actualmente estoy trabajando con Vue.js y con Python (2 y 3) realizando monolitos, microservicios y fronts independientes. Todo bajo Google Cloud.",
-      "Siempre he trabajado con javascript, y también con C# la mayor parte del tiempo. Reconozco que me siento a gusto con javascript, aunque no soy de cerrarme puertas.",
-      "He tocado por mi cuenta node.js, express.js, mongoose, react.js, y más. Me gusta ver qué hay de nuevo en el mundillo.",
-      "Conozco Java y Php, aunque no los he trabajado profesionalmente. Me adapto a todo, no le tengo miedo a nada, laboralmente hablando.",
-      "También trabajo con Git y he trabajado con Subversion. Obviamente conozco SQL, he trabajado con las BBDD más comunes (SQL Server, Oracle, MySQL, MongoDB)."
+      "Actualmente estoy trabajando en Phonr (www.ysi.si)",
+      "En Phonr trabajamos con tecnologías de vanguardia, tales como Google Cloud Platform, Python3, Nuxt.js, Microservicios, Mobile First...",
+      "En concreto, trabajo como Full Stack, formando parte de un equipo de desarrollo multidisciplinar, donde nos encargamos desde el desarrollo hasta la puesta en producción, con un enfoque 'Continuous Deployment'."
     ]
   },
   "iam": {
@@ -96,16 +95,30 @@
     "text": "Experiencia",
     "data": [
       {
-        "from": "Septiembre 2018",
+        "from": "Marzo 2020",
         "to": "Actualidad",
+        "title": "FullStack Developer",
+        "company": "Phonr App Spain",
+        "location": "Madrid, Madrid",
+        "url": "https://www.ysi.si/",
+        "linkedin": "https://www.linkedin.com/company/phonrappspain/",
+        "summary": [
+          "Actualmente trabajo en Phonr desde Marzo de 2020. Trabajamos en mejorar constantemente www.ysi.si",
+          "Trabajamos con tecnologías de vanguardia, tales como Google Cloud Platform, Python3, Nuxt.js, Microservicios, Mobile First, etc...",
+          "En concreto, trabajo como Full Stack, formando parte de un equipo de desarrollo multidisciplinar, donde nos encargamos desde el desarrollo hasta la puesta en producción, con un enfoque 'Continuous Deployment'."
+        ]
+      },
+      {
+        "from": "Septiembre 2018",
+        "to": "Marzo 2020",
         "title": "FullStack Developer",
         "company": "Sngular",
         "location": "Madrid, Madrid",
         "url": "https://sngular.com/",
         "linkedin": "",
         "summary": [
-          "Actualmente trabajo en Sngular desde Septiembre de 2018, destinado en el cliente BBVA.",
-          "En este cliente, realizo frontales con Vue.jj y monolitos y microservicios con Python (2 y 3). Todo ello desplegado en Google Cloud y con Git (bitbucket) para control de versiones."
+          "Trabajé en Sngular desde Septiembre de 2018 hasta Marzo de 2020, destinado en el cliente BBVA.",
+          "En este cliente, realizaba frontales con Vue.js y monolitos y microservicios con Python (2 y 3). Todo ello desplegado en Google Cloud Platform (App Engine, más concretamente) y con Git (bitbucket) para control de versiones."
         ]
       },
       {
